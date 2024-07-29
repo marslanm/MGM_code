@@ -1,7 +1,6 @@
 # MGM: Global Understanding of Audience Overlap Graphs for Predicting the Factuality and the Bias of News Media
 
 ## Installation
-## Installation
 The codebase has been tested on Ubuntu 20.04.2 LTS using Python 3.8. To set up the environment and install the necessary dependencies, please follow the steps outlined below.
 
 
